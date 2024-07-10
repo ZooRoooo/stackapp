@@ -1,0 +1,9 @@
+{
+    "dialect": "postgresql",
+    "out": "./migrations-folder",
+    "schema": "./Utils/schema.js",
+    "breakpoints": false,
+    "dbCredentials": {
+        "url": "postgresql://Idiahub_owner:CRZWy2tKeo5k@ep-quiet-mouse-a5mx8da7.us-east-2.aws.neon.tech/Idiahub?sslmode=require"
+    }
+}
